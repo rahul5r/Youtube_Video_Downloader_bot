@@ -5,7 +5,7 @@ from telegram import Update, ChatAction, InlineKeyboardMarkup, InlineKeyboardBut
 from telegram.ext import Updater, MessageHandler, Filters, CallbackContext, CommandHandler, CallbackQueryHandler
 
 # Set up the bot token
-TOKEN = '5884816644:AAGDp597Fz9XAdFqIBRYmjwVsEjG0zA_M6E'
+TOKEN = '<youtr-token-here>'
 
 # Create an Updater object
 updater = Updater(TOKEN)
