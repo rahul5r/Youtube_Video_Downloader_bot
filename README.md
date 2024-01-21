@@ -30,7 +30,7 @@ This is a simple Telegram bot built in Python using the `pytube` library to down
 4. Run the script:
 
    ```bash
-   python your_script_name.py
+   python youtube_downloader.py
    ```
 
    This will start the bot, and you can interact with it on Telegram.
